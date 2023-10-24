@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/global_box_office/static/js/main.6eea75e6.js",
+    "static/js/787.6e354c4d.chunk.js": "/global_box_office/static/js/787.6e354c4d.chunk.js",
+    "service-worker.js": "/global_box_office/service-worker.js",
+    "index.html": "/global_box_office/index.html",
+    "main.6eea75e6.js.map": "/global_box_office/static/js/main.6eea75e6.js.map",
+    "787.6e354c4d.chunk.js.map": "/global_box_office/static/js/787.6e354c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6eea75e6.js"
+  ]
+}
